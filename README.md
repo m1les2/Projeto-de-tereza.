@@ -1,143 +1,87 @@
-# GA-IA
+# Descrição técnica
 
-🎥 Visualizar Projeto no Browser
+O GA-IA foi desenvolvido para auxiliar estudantes no aprendizado de História e Geografia de forma mais simples e acessível. O projeto funciona como um assistente virtual educativo, permitindo que o usuário tire dúvidas e receba explicações mais fáceis de entender.
 
-## 🧠 Sobre o Projeto
+A plataforma foi criada com foco em organização visual, facilidade de navegação e conforto durante o uso. Além disso, o sistema busca criar um ambiente mais acolhedor para os estudantes, incentivando o aprendizado sem medo de errar.
 
-O projeto **GA-IA** visa tornar o aprendizado de História e Geografia mais interativo, inteligente e acessível. A plataforma utiliza Inteligência Artificial para responder perguntas, explicar conteúdos históricos e geográficos e auxiliar estudantes de forma dinâmica.
+A aplicação possui os seguintes elementos:
 
-Nossa aplicação foi desenvolvida com foco educacional, oferecendo uma experiência intuitiva e moderna para facilitar o aprendizado e aumentar o engajamento dos usuários.
-
----
-
-# 📖 Descrição técnica
-
-Desenvolvida para oferecer informações, explicações e recursos relacionados ao ensino de História e Geografia utilizando Inteligência Artificial, a plataforma possui funcionalidades que auxiliam estudantes no processo de aprendizagem de maneira simples e eficiente.
-
-A aplicação é composta pelos seguintes elementos:
-
-## 📚 Sistema de perguntas e respostas
-
-A plataforma permite que o usuário faça perguntas relacionadas a temas históricos e geográficos. A Inteligência Artificial gera respostas automáticas com explicações claras e objetivas.
-
-## 🌎 Explicações educativas
-
-O sistema apresenta conteúdos sobre:
-
-- História Geral
-- História do Brasil
-- Geografia física
-- Geopolítica
-- Clima e relevo
-- Cartografia
-- Movimentos históricos
-
-## 🔎 Opções de pesquisa
-
-O usuário pode pesquisar conteúdos por:
-
-- Tema
-- Palavra-chave
-- Categoria
-- Período histórico
-
-## 📱 Responsividade
-
-A aplicação é responsiva e se adapta a diferentes dispositivos, como:
-
-- Computadores
-- Tablets
-- Smartphones
-
-## 🎨 Design minimalista
-
-A interface possui design minimalista e intuitivo, priorizando acessibilidade, organização visual e facilidade de navegação.
-
-## 🌙 Opção de tema escuro
-
-O usuário pode optar por visualizar a plataforma em modo escuro.
+- Assistente virtual para dúvidas e explicações
+- Linguagem simples e objetiva
+- Interface intuitiva
+- Responsividade para diferentes dispositivos
+- Design minimalista
+- Ambiente de aprendizado mais confortável para o usuário
 
 ---
 
-# ⚙️ Tecnologias utilizadas
+# Identidade visual
+
+## Paleta de cores
+
+- #8b887b
+- #732636
+- #cca877
+- #fff2d3
+
+Distribuição:
+
+- 60%
+- 30%
+- 10%
+
+## Tipografia
+
+As fontes utilizadas no projeto foram:
+
+- Arsenica
+- Glacial Indifference
+- The Seasons
+
+---
+
+# Tecnologias utilizadas
 
 ## HTML
 
-A estrutura da aplicação foi desenvolvida utilizando HTML.
+Utilizado para estruturar as páginas da aplicação.
 
 ## CSS
 
-O CSS foi utilizado para estilização da interface, cores, layout e responsividade.
+Responsável pela estilização da interface, cores, layout e responsividade.
 
 ## JavaScript
 
-O JavaScript foi utilizado para funcionalidades dinâmicas, interações e integração com os recursos de Inteligência Artificial.
+Utilizado para funcionalidades interativas da plataforma.
 
 ---
 
-# 🏗️ Arquitetura da aplicação
+# Componentes principais
 
-## Componentes principais
+## Componente do chatbot
 
-### 🧠 Componente de Inteligência Artificial
+Responsável pela comunicação entre o usuário e o assistente virtual.
 
-Responsável por interpretar perguntas e gerar respostas relacionadas à História e Geografia.
+## Componente de interface
 
-### 🔎 Componente de pesquisa
+Responsável pela organização visual e experiência do usuário.
 
-Responsável pela busca de conteúdos e temas específicos.
+## Componente de pesquisa
 
-### 📚 Componente educacional
-
-Responsável por organizar os conteúdos históricos e geográficos disponíveis na plataforma.
-
-### 🎨 Componente de interface
-
-Responsável pela experiência visual e interação do usuário com a aplicação.
+Responsável pela busca e organização das perguntas e respostas.
 
 ---
 
-# 🧪 Testes de usabilidade
+# Testes de usabilidade
 
-A plataforma foi submetida a testes de usabilidade para garantir uma navegação intuitiva e acessível.
+O projeto foi analisado com foco na experiência do usuário, buscando garantir uma navegação simples, intuitiva e acessível.
 
-Os testes demonstraram que:
-
-- A interface é fácil de utilizar
-- A navegação é intuitiva
-- O sistema de perguntas é rápido e eficiente
-- O design melhora a experiência do usuário
+Os testes mostraram que a interface possui boa organização visual, facilidade de uso e uma comunicação mais clara para os estudantes.
 
 ---
 
-# 🚀 Conclusão
+# Conclusão
 
-O projeto foi desenvolvido com foco na educação e acessibilidade digital.
+O GA-IA foi desenvolvido com foco em acessibilidade e educação, utilizando tecnologia para ajudar estudantes no aprendizado de História e Geografia de forma mais simples e confortável.
 
-O uso de Inteligência Artificial aliado a um design moderno e minimalista proporciona uma experiência dinâmica e eficiente para estudantes, tornando o aprendizado de História e Geografia mais interativo e tecnológico.
-
----
-
-# 👨‍💻 Tecnologias Futuras
-
-- Reconhecimento de voz
-- Geração de mapas interativos
-- Chat em tempo real
-- Sistema de recomendação de conteúdos
-- Gamificação educacional
-
----
-
-# 👥 Equipe
-
-- Jamile Clarissa
-- Kaysa Leonidas
-- Breno Cesar
-- Guilherme Alberto
-- Edrey Nathan
-
----
-
-# 📄 Licença
-
-Projeto desenvolvido para fins educacionais.
+O projeto busca incentivar o aprendizado através de uma experiência mais leve, organizada e acolhedora.
